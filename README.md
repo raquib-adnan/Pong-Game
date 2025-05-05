@@ -2,6 +2,12 @@
 
 A simple Pong game implemented using Python and the `turtle` module.
 
+## 🖼️ Screenshot
+
+### Main Screen
+
+![Main Screen](main.png)
+
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
